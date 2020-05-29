@@ -1,0 +1,19 @@
+{
+    "name": "mouse                 ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "keyboard": "*",
+        "mouse": "*",
+        "sevenseg": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
